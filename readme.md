@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Aryan Chaudhary
 #### A passionate learner from India. Finding platforms and projects to work on.
-![A passionate learner from India. Finding platforms and projects to work on.]https://github.com/aryan-0813/aryan-0813/blob/main/ezgif.com-gif-maker.gif
+![A passionate learner from India. Finding platforms and projects to work on.](https://github.com/aryan-0813/aryan-0813/blob/main/ezgif.com-gif-maker.gif)
 
 
 
