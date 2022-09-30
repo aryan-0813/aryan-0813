@@ -3,6 +3,10 @@
 ![A passionate learner from India. Finding platforms and projects to work on.]https://github.com/aryan-0813/aryan-0813/blob/main/ezgif.com-gif-maker.gif
 
 
+
+
+
+
 actively working on dsa and Flutter
 
 Skills: C/ C++ / FLUTTER / DART / PYTHON/MySQL/LINUX/arduino
