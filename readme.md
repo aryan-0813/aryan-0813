@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Aryan Chaudhary
 #### A passionate learner from India. Finding platforms and projects to work on.
 ![A passionate learner from India. Finding platforms and projects to work on.]
-https://github.com/aryan-0813/aryan-0813/blob/main/ezgif.com-gif-maker.gif
+https://www.canva.com/design/DAFNudH85WU/tXesF4XDMiw4h2whgst9wQ/watch?utm_content=DAFNudH85WU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 actively working on dsa and Flutter
 
