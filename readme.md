@@ -9,9 +9,9 @@
 
 actively working on dsa and Flutter
 
-Skills: C/ C++ / FLUTTER / DART / PYTHON/MySQL/LINUX/arduino
+Skills: C/ C++ / FLUTTER / DART / PYTHON/MySQL/LINUX/Cyber Security/Java
 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and Cyber Security
 - 💬 Ask me about caryan539@gmail.com 
 - 📫 How to reach me: caryan539@gmail.com 
 - 😄 Pronouns: he/him 
